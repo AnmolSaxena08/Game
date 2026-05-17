@@ -2,7 +2,7 @@
 
 An interactive, web-based digital logic quiz game designed with a sleek cyberpunk/neon aesthetic. Test your conceptual understanding of fundamental logic gates through real-time truth tables and schematic symbol identification.
 
-🎯 **Live Demo:** [Launch Simulation](https://anmolsaxena08.github.io/game/)
+🎯 **Live Demo:** [Launch Simulation](https://anmolsaxena08.github.io/Game/)
 
 ---
 
